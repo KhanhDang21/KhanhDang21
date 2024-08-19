@@ -77,7 +77,7 @@
 
 
 ## Recent Blog Posts  
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fsteinsgateaminoofficial%2Fpage%2Fitem%2Fokabe-rintarou%2FqkvV_4BBC3IdwPWPwbkVQZxLjJLeMYZWEn3&psig=AOvVaw1UoIk6kxH2dWmjrROH7USX&ust=1724173773254000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCYlvzFgYgDFQAAAAAdAAAAABAE" align="left" height="218" width="512" />  
+So young, so funny  
   
 
 <br/>  
@@ -97,4 +97,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
