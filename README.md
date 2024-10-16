@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm a student at the Institute of Posts and Telecommunications Technology from Vietnam
+### - I'm a student at the Posts and Telecommunications  Institute of Technology from Vietnam
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://genk.mediacdn.vn/2019/3/21/anh-0-1553159248938513439522.gif">
 
