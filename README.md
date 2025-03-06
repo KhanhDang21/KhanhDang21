@@ -1,12 +1,7 @@
 # Konichiwa 👋
-
-<div align="center">
-</div>
-
 </br>
 </br>
 </br>
-
 
 # About ME 💬 :
 
