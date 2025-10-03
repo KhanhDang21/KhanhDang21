@@ -12,7 +12,7 @@
 ### - Hobbies : 
 - ✨ Watching Anime
 - ✨ Reading Light Novels
-- ✨ Badminton
+- ✨ Chess
 
 </br>
 </br>
