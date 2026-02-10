@@ -14,10 +14,6 @@
 - ✨ Reading Light Novels
 - ✨ Chess
 
-</br>
-</br>
-</br>
-
 # Contact Me :
 <p>
  </br>
