@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=KhanhDang21&icon=0&color=0)](https://visitcount.itsvg.in)
 
