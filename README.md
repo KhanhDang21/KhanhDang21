@@ -1,6 +1,3 @@
----
-[![](https://visitcount.itsvg.in/api?id=KhanhDang21&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 I'm Dang from VietNam<br><br>- 🔭 I’m working as AI engineer<br>- 📚 I'm currently learning AI and BackEnd<br>- ⚡ In my free time I learn English and Chinese
 
