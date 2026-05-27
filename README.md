@@ -11,14 +11,3 @@ I'm Dang from VietNam<br><br>- 🔭 I’m working as AI engineer<br>- 📚 I'm c
 
 ---
 [![](https://visitcount.itsvg.in/api?username=okarinn06&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/api?username=okarinn06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=okarinn06&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
